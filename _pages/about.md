@@ -30,7 +30,10 @@ Professional Services
 ======
 Reviewer for 
 <ul>
-  <li>Operations Research, Mathematical Programming, European Journal of Operational Research, Computational Management Science</li>
+  <li> Operations Research </li>
+  <li> Mathematical Programming </li>
+  <li> European Journal of Operational Research </li>
+  <li> Computational Management Science </li>
 </ul>
 
 
