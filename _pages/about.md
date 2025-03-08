@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at the [Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), studying very fortunately under the guidance of [Prof. Huifu Xu](https://www1.se.cuhk.edu.hk/~hfxu/). Previously, I obtained my bachelor's degree in Mathematics and Applied Mathematics (2018-2022) from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/).
+I am a third-year Ph.D. student at the [Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), studying very fortunately under the guidance of [Prof. Huifu Xu](https://www1.se.cuhk.edu.hk/~hfxu/). Previously, I obtained my bachelor's degree in Mathematics and Applied Mathematics (2018-2022) from [School of Mathematics, Sun Yat-sen University](https://math.sysu.edu.cn/).
 
 Research
 ======
