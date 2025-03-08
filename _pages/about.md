@@ -22,7 +22,7 @@ Awards
 <ul>
   <li>CUHK Postgraduate Student Scholarship, 2022-2026</li>
   <li>American Mathematical Contest in Modeling, Meritorious Winner, 2021</li>
-  <li>Mathematics competition of Chinese College Student, First Prize, Rank 14th in Guangdong Province, 2020</li>
+  <li>The Chinese Mathematics Competitions, First Prize, Rank 14th in Guangdong Province, 2020</li>
   <li>SYSU First-Class Scholarship, 2019-2021</li>
 </ul>
 
