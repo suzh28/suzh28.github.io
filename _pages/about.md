@@ -13,7 +13,7 @@ Research
 ======
 My recent research area is stochastic optimization, focusing on optimal decision-making under uncertainty. Specifically, I work on preference-robust optimization and distributionally robust optimization, both of which address ambiguity in a decision maker’s utility preferences, risk attitudes, or in the distribution of exogenous uncertainty data. This concept of ambiguity can also be applied to probability distributions, where we construct an ambiguity set around the nominal distribution. Within this set, we then consider robustness to better handle the objective function.
 
-Selected papers
+Selected Papers
 ======
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=O_qinOk6RJLueFDTaD8qa6cz9OQjVM1FSsh5jCQjs6U&cl=ffffff&w=a"></script>
