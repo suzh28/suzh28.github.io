@@ -28,7 +28,10 @@ Awards
 
 Professional Services
 ======
-Reviewer for Operations Research, Mathematical Programming, European Journal of Operational Research, Computational Management Science
+Reviewer for 
+<ul>
+  <li>Operations Research, Mathematical Programming, European Journal of Operational Research, Computational Management Science</li>
+</ul>
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=O_qinOk6RJLueFDTaD8qa6cz9OQjVM1FSsh5jCQjs6U&cl=ffffff&w=a"></script>
