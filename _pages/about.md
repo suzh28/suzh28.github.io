@@ -20,10 +20,8 @@ Selected Papers
 Awards
 ======
 <ul>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
+  <li>American Mathematical Contest in Modeling, Meritorious Winner, 2021</li>
+  <li>Chinese Mathematics Competitions, First Prize and Rank 14th in Guangdong Province, 2020</li>
 </ul>
 
 Professional Services
