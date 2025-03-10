@@ -15,7 +15,21 @@ My recent research area is stochastic optimization, focusing on optimal decision
 
 Selected Papers
 ======
-
+<ol>
+      <li>
+        <strong>  Z. Su </strong> 
+        and <a href="https://www1.se.cuhk.edu.hk/~hfxu/index.html">H. Xu</a>,
+        Continuous and Monotone Bayesian Nash Equilibrium with Incomplete Information about Player's Risk Preferences, 2025, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118754">SSRN</a>.
+        Under review by <strong><em>Journal of Economic Theory</em></strong>.
+    </li>
+    <li>
+        <a href="https://scholar.google.com/citations?user=ohVx2r4AAAAJ&hl=en"> J. Liu  </a>, 
+        <strong>  Z. Su </strong> 
+        and <a href="https://www1.se.cuhk.edu.hk/~hfxu/index.html">H. Xu</a>,
+        Bayesian Distributionally Robust Nash Equilibrium and Its Application, 2024, <a href="https://arxiv.org/abs/2410.20364">arxiv</a>.
+        To appear in <strong><em>Pacific Journal of Optimization</em></strong>: Special issue dedicated to Prof. Ralph Tyrrell Rockafellar on the occasion of his 90th birthday.
+    </li>
+</ol>
 
 Awards
 ======
