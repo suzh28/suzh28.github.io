@@ -27,7 +27,7 @@ Selected Papers
         <strong>  Z. Su </strong> 
         and <a href="https://www1.se.cuhk.edu.hk/~hfxu/index.html">H. Xu</a>,
         Bayesian Distributionally Robust Nash Equilibrium and Its Application, 2024, <a href="https://arxiv.org/abs/2410.20364">arxiv</a>.
-        To appear in <strong><em>Pacific Journal of Optimization</em></strong>: Special issue dedicated to <a href="https://sites.math.washington.edu/~rtr/mypage.html">
+        To appear in <strong><em>Pacific Journal of Optimization:</em></strong> Special issue dedicated to <a href="https://sites.math.washington.edu/~rtr/mypage.html">
           Prof. R. Tyrrell Rockafellar</a> on the occasion of his 90th birthday.
     </li>
 </ol>
