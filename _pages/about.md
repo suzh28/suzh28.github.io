@@ -23,11 +23,12 @@ Selected Papers
         Under review by <strong><em>Journal of Economic Theory</em></strong>.
     </li>
     <li>
-        <a href="https://scholar.google.com/citations?user=ohVx2r4AAAAJ&hl=en"> J. Liu  </a>, 
+        <a href="https://scholar.google.com/citations?user=ohVx2r4AAAAJ&hl=en"> J. Liu</a>, 
         <strong>  Z. Su </strong> 
-        and <a href="https://www1.se.cuhk.edu.hk/~hfxu/index.html">H. Xu</a>,
+        and <a href="https://www1.se.cuhk.edu.hk/~hfxu/index.html">H. Xu</a>
         Bayesian Distributionally Robust Nash Equilibrium and Its Application, 2024, <a href="https://arxiv.org/abs/2410.20364">arxiv</a>.
-        To appear in <strong><em>Pacific Journal of Optimization</em></strong>: Special issue dedicated to Prof. Ralph Tyrrell Rockafellar on the occasion of his 90th birthday.
+        To appear in <strong><em>Pacific Journal of Optimization</em></strong>: Special issue dedicated to <a href="https://sites.math.washington.edu/~rtr/mypage.html">
+          Prof. R. Tyrrell Rockafellar</a> on the occasion of his 90th birthday.
     </li>
 </ol>
 
