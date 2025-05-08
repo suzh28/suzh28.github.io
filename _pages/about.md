@@ -39,6 +39,7 @@ Awards
   <li>American Mathematical Contest in Modeling, Meritorious Winner, 2021</li>
   <li>The Chinese Mathematics Competitions, First Prize, 14th in Guangdong Province, 2020</li>
   <li>SYSU First-Class Scholarship, 2019-2021</li>
+  <li>China National Mathematics Olympiad, Second Prize in Jiangxi Province, 2017 </li>
 </ul>
 
 Professional Services
