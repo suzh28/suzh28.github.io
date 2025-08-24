@@ -47,7 +47,9 @@ Professional Services
 Reviewer for 
 <ul>
   <li> Operations Research </li>
+  <li> Management Science </li>
   <li> Mathematical Programming </li>
+  <li> SIAM Journal on Optimization </li>
   <li> European Journal of Operational Research </li>
   <li> Computational Management Science </li>
 </ul>
