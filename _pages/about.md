@@ -26,8 +26,8 @@ Selected Papers
         <a href="https://scholar.google.com/citations?user=ohVx2r4AAAAJ&hl=en"> J. Liu</a>, 
         <strong>  Z. Su </strong> 
         and <a href="https://www1.se.cuhk.edu.hk/~hfxu/index.html">H. Xu</a>,
-        Bayesian Distributionally Robust Nash Equilibrium and Its Application, <strong><em>Pacific Journal of Optimization:</em></strong> Special issue dedicated to <a 
-        href="https://sites.math.washington.edu/~rtr/mypage.html"> Prof. R. Tyrrell Rockafellar</a> on the occasion of his 90th birthday. 21(4): 571-599  2025, <a href="http://www.yokohamapublishers.jp/online-
+        Bayesian Distributionally Robust Nash Equilibrium and Its Application, <strong><em>Pacific Journal of Optimization:Special issue dedicated to <a 
+        href="https://sites.math.washington.edu/~rtr/mypage.html"> Prof. R. Tyrrell Rockafellar</a> on the occasion of his 90th birthday</em></strong>, 21(4): 571-599  2025, <a href="http://www.yokohamapublishers.jp/online-
         p/PJO/Open/vol21/pjov21n4p571.pdf">PDF</a>.
     </li>
 </ol>
