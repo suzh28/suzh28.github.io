@@ -17,6 +17,13 @@ Selected Papers
 ======
 <ol>
       <li>
+        <strong> Z. Su</strong>
+        and <a href="https://www1.se.cuhk.edu.hk/~hfxu/index.html">H. Xu</a>,
+        Existence and Uniqueness Theorem of Continuous and Monotone Bayesian Nash Equilibrium and Stability Analysis, 2025, 
+        <a ahref="https://arxiv.org/abs/2511.15457">arxiv</a>. Under review by <strong><em>Mathematics of Operations Research</em></strong>.
+    </li>
+  
+      <li>
         <strong>  Z. Su </strong> 
         and <a href="https://www1.se.cuhk.edu.hk/~hfxu/index.html">H. Xu</a>,
         Continuous and Monotone Bayesian Nash Equilibrium with Incomplete Information about Player's Risk Preferences, 2025, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118754">SSRN</a>.
