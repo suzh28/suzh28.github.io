@@ -22,7 +22,6 @@ Selected Papers
         Existence and Uniqueness Theorem of Continuous and Monotone Bayesian Nash Equilibrium and Stability Analysis, 2025, 
         <a ahref="https://arxiv.org/abs/2511.15457">arxiv</a>. Under review by <strong><em>Mathematics of Operations Research</em></strong>.
     </li>
-  
       <li>
         <strong>  Z. Su </strong> 
         and <a href="https://www1.se.cuhk.edu.hk/~hfxu/index.html">H. Xu</a>,
