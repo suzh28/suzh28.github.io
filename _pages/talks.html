@@ -2,7 +2,7 @@
 layout: archive
 title: "Talks and Posters"
 permalink: /talks/
-author_profile: false 
+author_profile: true
 ---
 
 
@@ -17,6 +17,6 @@ author_profile: false
 
 {% endif %}
 
-{% for post in site.talks reversed %}
+{% for post in site.talks %}
   {% include archive-single-talk.html %}
 {% endfor %}
