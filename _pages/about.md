@@ -75,8 +75,8 @@ Reviewer for
 Teaching Assistant
 ======
 <ul>
-  <li>ECLT 5920 - SEEM 5820:  Introduction to Financial Engineering (Instructor: <a href="https://sites.google.com/site/xuedonghepage/home">Prof. Xuedong He</a>), Fall 2023, 2024, 2025 </li>
-  <li>ECLT 5930B - SEEM 5740B: Engineering Economics (Instructor: <a href="https://www1.se.cuhk.edu.hk/~zylong/">
+  <li>ECLT 5920 / SEEM 5820:  Introduction to Financial Engineering (Instructor: <a href="https://sites.google.com/site/xuedonghepage/home">Prof. Xuedong He</a>), Fall 2023, 2024, 2025 </li>
+  <li>ECLT 5930B / SEEM 5740B: Engineering Economics (Instructor: <a href="https://www1.se.cuhk.edu.hk/~zylong/">
   Prof. Daniel Zhuoyu Long</a>, <a href="https://www1.se.cuhk.edu.hk/~hfxu/index.html">Prof. Huifu Xu</a>), Spring 2024, 2025 </li>
   <li>SEEM 4670: Service Systems (Instructor: <a href="https://www.se.cuhk.edu.hk/people/academic-staff/dr-ho-sin-cheung/">Dr. Sincheung Ho</a>), Spring 2024 </li>
   <li>SEEM 3500: Quality Control and Management (Instructor: <a href="https://www1.se.cuhk.edu.hk/~hfxu/index.html">Prof. Huifu Xu</a>), Spring 2023 </li>
