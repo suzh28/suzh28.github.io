@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "About me"
+title: "Ziheng SU's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+About me
+======
 
 I am a final-year Ph.D. student at the [Department of Systems Engineering and Engineering Management (SEEM)](https://www.se.cuhk.edu.hk/), [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), studying very fortunately under the guidance of [Prof. Huifu Xu](https://www1.se.cuhk.edu.hk/~hfxu/). Previously, I obtained my bachelor's degree in Mathematics and Applied Mathematics (2018-2022) from [School of Mathematics](https://math.sysu.edu.cn/), [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn/sysuen/).
 
