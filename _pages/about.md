@@ -1,10 +1,7 @@
 ---
 permalink: /
-title: "Ziheng SU's Homepage"
+title: "Ziheng Su"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 About me
