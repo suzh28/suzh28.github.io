@@ -2,8 +2,8 @@
 permalink: /
 title: "Ziheng Su"
 author_profile: true
+show_title: false
 ---
-
 About me
 ======
 
