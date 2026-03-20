@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ziheng SU's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
-name                     : "Ziheng SU"
+name                     : "Ziheng SU's Homepage"
 description              : "Ziheng SU's Homepage"
-url                      : "https://suzh28.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://suzh28.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
 
