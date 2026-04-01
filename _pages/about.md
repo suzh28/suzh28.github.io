@@ -15,8 +15,8 @@ My recent research area is stochastic optimization, focusing on optimal decision
 
 Publications
 ======
-† indicates corresponding author.
-<ol style="padding-left: 20px; margin-left: 0;">
+†: Corresponding author.
+<ol>
       <li>
         <strong>Z. Su†</strong> and H. Xu,
         Existence and Uniqueness Theorem of Continuous and Monotone Bayesian Nash Equilibrium and Stability Analysis, 2025, 
