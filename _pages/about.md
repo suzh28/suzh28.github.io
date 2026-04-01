@@ -15,7 +15,7 @@ My recent research area is stochastic optimization, focusing on optimal decision
 
 Publications
 ======
-<p style="margin-left: 40px;">†: Corresponding author.</p>
+      †: Corresponding author.
 <ol>
       <li>
         <strong>Z. Su†</strong> and H. Xu,
