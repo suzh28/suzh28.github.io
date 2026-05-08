@@ -11,7 +11,11 @@ I am a fourth-year Ph.D. student at the [Department of Systems Engineering and E
 
 Research
 ======
-My recent research area is stochastic optimization, focusing on optimal decision-making under uncertainty. Specifically, I work on preference-robust optimization and distributionally robust optimization, both of which address ambiguity in a decision maker’s utility preferences, risk attitudes, or in the distribution of exogenous uncertainty data. This concept of ambiguity can also be applied to probability distributions, where we construct an ambiguity set around the nominal distribution. Within this set, we then consider robustness to better handle the objective function.
+My research lies at the intersection of stochastic optimization, game theory, and equilibrium analysis. I am particularly interested in strategic decision-making under uncertainty, with a focus on Bayesian Nash equilibrium models, distributionally robust equilibrium models, and risk-aware decision-making.
+
+A central theme of my work is to understand how equilibrium behavior changes when decision makers face incomplete information about other agents’ types, risk preferences, or the underlying probability distribution of uncertain data. My recent papers study the existence, uniqueness, monotonicity, stability, and computation of continuous Bayesian Nash equilibria and related risk minimization equilibria. These problems arise naturally in data-driven competitive environments where agents must make decisions based on partial information and ambiguous statistical knowledge.
+
+Methodologically, my work combines tools from stochastic programming, variational analysis, fixed-point theory, monotone comparative statics, and distributionally robust optimization. I am also interested in applications of these models to market competition, insurance and reinsurance, and other multi-agent decision systems.
 
 Publications
 ======
