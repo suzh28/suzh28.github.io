@@ -29,7 +29,7 @@ Publications
       <li>
         <strong>Z. Su</strong> and H. Xu†,
         Continuous and Monotone Bayesian Nash Equilibrium with Incomplete Information about Player's Risk Preferences, 2025, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118754">SSRN</a>.
-        Under Major Revision at <strong><em>SIAM Journal on Optimization</em></strong>.
+        Accepted at <strong><em>SIAM Journal on Optimization</em></strong>.
     </li>
     <li>
         J. Liu, <strong>Z. Su</strong> and H. Xu†,
