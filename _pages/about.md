@@ -24,7 +24,7 @@ Publications
       <li>
         <strong>Z. Su†</strong> and H. Xu,
         Existence and Uniqueness Theorem of Continuous and Monotone Bayesian Nash Equilibrium and Stability Analysis, 2025, 
-        <a href="https://arxiv.org/abs/2511.15457">arxiv</a>. Under Major Revision at <strong><em>Mathematics of Operations Research</em></strong>.
+        <a href="https://arxiv.org/abs/2511.15457">arxiv</a>. Under Minor Revision at <strong><em>Mathematics of Operations Research</em></strong>.
     </li>
       <li>
         <strong>Z. Su</strong> and H. Xu†,
