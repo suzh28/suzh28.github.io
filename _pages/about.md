@@ -19,7 +19,7 @@ Methodologically, my work combines tools from stochastic programming, variationa
 
 Publications
 ======
-†  indicates the corresponding author.
+†: Corresponding author, *: Equal contribution.
 <ol>
       <li>
         <strong>Z. Su†</strong> and H. Xu,
