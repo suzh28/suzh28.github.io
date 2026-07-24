@@ -51,10 +51,11 @@ Talks and Posters
 Awards
 ======
 <ul>
-  <li>CUHK Postgraduate Student Scholarship, 2022-2026</li>
+  <li>CUHK Research Postgraduate Student Scholarship, 2022-2026 </li>
+  <li>CUHK Researcg Postgraduate Student Grants for Overseas Academic Activities 2025 & 2026 </li>
   <li>American Mathematical Contest in Modeling, Meritorious Winner, 2021</li>
   <li>The Chinese Mathematics Competitions, First Prize, 14th in Guangdong Province, 2020</li>
-  <li>SYSU First-Class Scholarship, 2019-2021</li>
+  <li>SYSU First-Class Undergraduate Student Scholarship, 2019-2021</li>
   <li>China National Mathematics Olympiad, Second Prize in Jiangxi Province, 2017 </li>
 </ul>
 
