@@ -22,9 +22,7 @@ Publications
 †: Corresponding author, *: Equal contribution.
 <ol>
       <li>
-        <strong>Z. Su†</strong> and H. Xu,
-        Existence and Uniqueness Theorem of Continuous and Monotone Bayesian Nash Equilibrium and Stability Analysis, 2025, 
-        <a href="https://doi.org/10.1287/moor.2025.1308">MOR</a>.  Accepted at <strong><em>Mathematics of Operations Research</em></strong>.
+        <strong>Z. Su†</strong> and H. Xu, <a href="https://doi.org/10.1287/moor.2025.1308"> Existence and Uniqueness Theorem of Continuous and Monotone Bayesian Nash Equilibrium and Stability Analysis</a>. Accepted at <strong><em>Mathematics of Operations Research</em></strong>, 2025.
     </li>
       <li>
         <strong>Z. Su</strong> and H. Xu†,
