@@ -26,11 +26,12 @@ Publications
             Published at <strong><em>Mathematics of Operations Research</em></strong>, 2026.
     </li>
       <li>
-        <strong>Z. Su</strong> and H. Xu†,<a href="https://doi.org/10.1137/25M1767029"> Continuous and Monotone Bayesian Nash Equilibrium with Incomplete Information about Player's Risk Preferences</a>. Published at <strong><em>SIAM Journal on Optimization</em></strong>, 36(3): 1916 - 1946, 2026.
+        <strong>Z. Su</strong> and H. Xu†,<a href="https://doi.org/10.1137/25M1767029"> Continuous and Monotone Bayesian Nash Equilibrium with Incomplete Information about Player's Risk Preferences</a>. Published at <strong><em>SIAM Journal on Optimization</em></strong>, 36(3): 1916-1946, 2026.
     </li>
     <li>
         J. Liu, <strong>Z. Su</strong> and H. Xu†,
-        <a href="https://doi.org/10.61208/pjo-2025-006">Bayesian Distributionally Robust Nash Equilibrium and Its Application</a>. <strong><em>Pacific Journal of Optimization: Special issue dedicated to <a href="https://sites.math.washington.edu/~rtr/mypage.html">Prof. R. Tyrrell Rockafellar</a> on the occasion of his 90th birthday</em></strong>, 21(4): 571-599,  2025.
+        <a href="https://doi.org/10.61208/pjo-2025-006">Bayesian Distributionally Robust Nash Equilibrium and Its Application</a>. 
+          Published at <strong><em>Pacific Journal of Optimization: Special issue dedicated to <a href="https://sites.math.washington.edu/~rtr/mypage.html">Prof. R. Tyrrell Rockafellar</a> on the occasion of his 90th birthday</em></strong>, 21(4): 571-599, 2025.
     </li>
 </ol>
 
