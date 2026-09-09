@@ -26,7 +26,7 @@ Publications
             Published at <strong><em>Mathematics of Operations Research</em></strong>, 2026.
     </li>
       <li>
-        <strong>Z. Su</strong> and H. Xu†,<a href="https://doi.org/10.1137/25M1767029"> Continuous and Monotone Bayesian Nash Equilibrium with Incomplete Information about Player's Risk Preferences</a>. Published at <strong><em>SIAM Journal on Optimization</em></strong>, 2026.
+        <strong>Z. Su</strong> and H. Xu†,<a href="https://doi.org/10.1137/25M1767029"> Continuous and Monotone Bayesian Nash Equilibrium with Incomplete Information about Player's Risk Preferences</a>. Published at <strong><em>SIAM Journal on Optimization</em></strong>, 36(3): 1916 - 1946, 2026.
     </li>
     <li>
         J. Liu, <strong>Z. Su</strong> and H. Xu†,
