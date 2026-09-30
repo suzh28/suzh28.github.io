@@ -22,7 +22,7 @@ Publications
 †: Corresponding author, *: Equal contribution.
 <ol>
       <li>
-        H. Yang*, <strong>Z. Su*</strong>, M. Li, C. Li†, <a href="https://openreview.net/forum?id=PM9450V2jW"> Concept Control in Language Models via Activation Straightening and Clamping</a>. 
+        H. Yang*, <strong>Z. Su*</strong>, M. Li and C. Li†, <a href="https://openreview.net/forum?id=PM9450V2jW"> Concept Control in Language Models via Activation Straightening and Clamping</a>. 
             Accepted at the NeurIPS 2026 Workshop on FLLMPT (Poster).
     </li> 
       <li>
