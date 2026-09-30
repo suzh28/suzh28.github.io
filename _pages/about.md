@@ -23,7 +23,7 @@ Publications
 <ol>
       <li>
         H. Yang*, <strong>Z. Su*</strong>, M. Li and C. Li†, <a href="https://openreview.net/forum?id=PM9450V2jW"> Concept Control in Language Models via Activation Straightening and Clamping</a>. 
-            Accepted at the NeurIPS 2026 Workshop on FLLMPT (Poster).
+            Accepted at <strong><em> NeurIPS 2026 Workshop on FLLMPT</em></strong> (Poster).
     </li> 
       <li>
         <strong>Z. Su†</strong> and H. Xu, <a href="https://doi.org/10.1287/moor.2025.1308"> Existence and Uniqueness Theorem of Continuous and             Monotone Bayesian Nash Equilibrium and Stability Analysis</a>. 
