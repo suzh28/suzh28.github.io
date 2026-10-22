@@ -89,6 +89,17 @@ Teaching Assistant
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=O_qinOk6RJLueFDTaD8qa6cz9OQjVM1FSsh5jCQjs6U&cl=ffffff&w=a"></script>
+<!-- Previous ClustrMaps widget ID, retained for possible historical data recovery:
+O_qinOk6RJLueFDTaD8qa6cz9OQjVM1FSsh5jCQjs6U
+The unavailable service's totals are not included in the new counter. -->
+<section aria-labelledby="visitor-statistics-heading" style="margin-top: 2rem;">
+  <h2 id="visitor-statistics-heading">Visitor Statistics</h2>
+  <p style="font-size: 0.85em; opacity: 0.75;">Visitor map and total page views since October 22, 2026. Click the map for detailed statistics.</p>
+  <a href="https://info.flagcounter.com/VBRc" target="_blank" rel="noopener noreferrer" aria-label="View visitor locations and total page views on Flag Counter">
+    <img src="https://s05.flagcounter.com/map/VBRc/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/"
+         alt="Visitor location map and total page views since October 22, 2026"
+         width="600" height="291" style="display: block; max-width: 100%; height: auto; border: 0;" />
+  </a>
+</section>
 
 
